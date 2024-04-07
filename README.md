@@ -1,7 +1,3 @@
-
-# Hello, folks! <img src="https://github.com/Leith42/Leith42/blob/main/Hi.gif" width="30px" height="30px" />
-Software Engineer from 🇫🇷 
-
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
